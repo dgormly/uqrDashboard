@@ -10,7 +10,7 @@
     "fs": "0.0.1-security",
     "http": "0.0.0",
     "json2csv": "^4.5.2",
-    "node-red": "^0.20.7",
+    "node-red": "^0.20.8",
     "serialport": "^7.1.5",
     "socket.io": "^2.2.0",
     "vue": "^2.6.10"
